@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C1E8A45B-10D4-4FB2-892E-49B51D6778B4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MySwiftLearn</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F639C7C0F83E181ADBF098AB31960DF5BCB6B9B3</key>
+		<string>https://github.com/SuooL/LearnSwift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>exercise01/MySwiftLearn.playground</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F639C7C0F83E181ADBF098AB31960DF5BCB6B9B3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/SuooL/LearnSwift.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F639C7C0F83E181ADBF098AB31960DF5BCB6B9B3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F639C7C0F83E181ADBF098AB31960DF5BCB6B9B3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LearnSwift</string>
+		</dict>
+	</array>
+</dict>
+</plist>
